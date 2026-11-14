@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+*.mp4
+*.zip
+*.srt
+.DS_Store
